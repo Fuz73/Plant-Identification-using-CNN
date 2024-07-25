@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 # Path to dataset
 dataset_path = 'path_of_dataset'  # Change this to your dataset path
 
-# Parameters
+##Parameters
 img_size = 128
 num_classes = 5
 
